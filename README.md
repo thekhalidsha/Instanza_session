@@ -16,3 +16,7 @@ Run Instanza Session
 ```
 python3 app.py
 ```
+### Website
+The Session Generated from here can be used in [here](https://thekhalidsha.pythonanywhere.com/)
+
+License Key is Required in order to make use of this bot!
